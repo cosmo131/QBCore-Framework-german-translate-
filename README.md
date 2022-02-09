@@ -2,4 +2,4 @@
 
 <li>Further you have to change the language file in the file fxmanifest.lua (e.g. from locales/en.lua to locales/de.lua). 
 
-Have fun!
+<b>Have fun!
